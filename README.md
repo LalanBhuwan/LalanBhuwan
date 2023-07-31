@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Front-End Developer<br>
+I'm Lalan bhuwan. I have completed the React.js course from Geekster. During the course, I worked on numerous projects assigned by Geekster and scored more than 90% on each assignment. I am familiar with HTML5, CSS3, JavaScript, ReactJs, Redux, Chakra UI, React-routing, Axios, Java, DSA and other related technologies. I have a strong proficiency in these skills and I am enthusiastic about pursuing a career as a Frontend Developer in the software field.<br>
 
 
 ## 🌐 Socials:
